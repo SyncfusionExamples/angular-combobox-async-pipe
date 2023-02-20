@@ -1,6 +1,6 @@
-# Binding observable data to an Angular Dropdown List
+# Binding observable data to an Angular ComboBox
 
-Learn how you can bind observable data to the Syncfusion Angular Dropdown List component. This example explains how to bind observables using the async pipe to subscribe to observable objects and get the latest emitted values.
+Learn how you can bind observable data to the Syncfusion Angular ComboBox component. This example explains how to bind observables using the async pipe to subscribe to observable objects and get the latest emitted values.
 
 # Project prerequisites
 Make sure you have the compatible versions of TypeScript and Angular on your machine before starting to work on this project:
