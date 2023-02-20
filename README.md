@@ -13,7 +13,7 @@ To run this application, you need to first clone the `angular-combobox-async-pip
 To do this, open the Command Prompt and run the following commands, one after the other:
 
 ```
-git clone https://github.com/SyncfusionExamples/angular-combobox-async-pipe/edit/master/README.md
+git clone https://github.com/SyncfusionExamples/angular-combobox-async-pipe.git
 
 cd angular-combobox-async-pipe
 ```
