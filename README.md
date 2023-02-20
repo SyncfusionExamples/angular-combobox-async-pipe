@@ -8,7 +8,7 @@ Make sure you have the compatible versions of TypeScript and Angular on your mac
 * TypeScript 2.6+
 
 ## How to run this application
-To run this application, you need to first clone the `Binding-Observable-data-to-an-Angular-Tree-Grid` repository and then navigate to the path where it has been copied to your system.
+To run this application, you need to first clone the `angular-combobox-async-pipe` repository and then navigate to the path where it has been copied to your system.
 
 To do this, open the Command Prompt and run the following commands, one after the other:
 
